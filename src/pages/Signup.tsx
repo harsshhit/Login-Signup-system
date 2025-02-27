@@ -27,7 +27,7 @@ export function Signup() {
       fullName: "",
       password: "",
       confirmPassword: "",
-      terms: false,
+      // terms: false,
     },
   });
 
